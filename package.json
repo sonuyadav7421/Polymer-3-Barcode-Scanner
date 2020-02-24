@@ -2,7 +2,8 @@
   "name": "barcode-scanner",
   "description": "Quagga Barcode Scanner wrapped in a Polymer element",
   "main": "barcode-scanner.js",
-  "dependencies": {   
+  "dependencies": {
+    "@polymer/paper-dialog": "^3.0.1",
     "@polymer/paper-input": "^3.2.0",
     "@polymer/polymer": "^3.0.0"
   },
